@@ -48,4 +48,4 @@ OpenList is at the initial planning/scaffolding stage. Features are not implemen
 
 ## License
 
-A license has not been selected yet.
+MIT License 
